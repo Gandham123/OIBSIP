@@ -1,0 +1,56 @@
+.bg-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.calc-container{
+    background-color: rgb(120, 180, 240);
+    margin-top: 20vh;
+    border-radius: 20px;
+}
+.input-field-styling{
+    background-color: transparent;
+    border: none;
+    width:100%;
+    color:#ffffff;
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 450;
+    text-align: right;
+    padding:20px 30px 20px 20px;
+}
+input:focus {
+    outline: none;
+}
+.number-body{
+    padding: 0px 20px 20px 20px;
+}
+.first-line{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.for-all-nums{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.paragraph{
+    
+    padding-top: 12px;  
+}
+.btn-styling{
+    border: none;
+    text-align: center;
+    background-color: rgb(235, 175, 65);
+    height: 50px;
+    width:50px;
+    border-radius: 25px;
+    font-family:"Roboto";
+    font-size:18px;
+    color:#ffffff;
+    font-weight: 450;
+}
+
+
