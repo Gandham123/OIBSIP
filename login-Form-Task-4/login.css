@@ -1,0 +1,74 @@
+.bg-container{
+    background-color: rgb(35, 143, 186);
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.form-styling{
+    background-color: #ffffff;
+    border:1px solid gray;
+    padding: 20px;
+    border-radius: 20px;
+    width:70vh;
+}
+.label-styling{
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 450;
+    color:#323f4b;
+    margin-bottom: 10px;
+
+}
+.input-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    border-width:2px ;
+    border-style:solid;
+    border-color: gray ;
+    border-radius: 15px;
+    height: 60px;
+    width: 100%;
+
+}
+input{
+    border:none;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-family: 450;
+    color:rgb(83, 80, 80);
+    outline: none;
+}
+.icons{
+  font-size: 23px;
+  font-weight: 450;
+  margin: 0px 20px 0px 20px;
+}
+.paragraph{
+    font-family: "Roboto";
+    font-size: 18px;
+    color:rgb(224, 41, 41);
+    font-weight: 450;
+}
+.heading{
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 450;
+    color:rgb(230, 83, 25);
+    margin-bottom: 30px;
+    text-align: center;
+}
+.buttons{
+    display: flex;
+    justify-content: space-between;
+}
+.userDetails{
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: 450;
+    color:rgb(175, 47, 47);
+    text-align: center;
+}
