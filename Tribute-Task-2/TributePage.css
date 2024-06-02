@@ -1,0 +1,51 @@
+.bg-container{
+    background-color: black;
+    padding: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100vh;
+}
+.image{
+    width:100h;
+    border-radius: 23px;
+    margin-right: 100px;
+}
+.discription{
+    align-self: center;
+}
+.heading{
+    font-family:"Roboto";
+    font-size:40px;
+    font-weight: bold;
+    color:#ffffff;
+    text-align: center;
+    padding-left: 30px;
+}
+.quote{
+    font-family:"Roboto";
+    font-size:20px;
+    font-weight: 400;
+    color:#323f4b;
+}
+.Bio-graphy{
+    background-color: rgb(238, 216, 144);
+    padding: 40px;
+}
+.main-heading{
+    font-family:"Roboto";
+    font-size:40px;
+    font-weight: 450;
+    color:#2b6ba7;
+    text-align: center;
+}
+.bio-paragraph{
+    font-family:"Roboto";
+    font-size:20px;
+    font-weight: 450;
+    color:#052e55;
+}
+.buttons{
+    text-align: center;
+}
